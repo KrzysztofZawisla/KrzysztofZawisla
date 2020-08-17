@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **zawislakrzysztof.zk@gmail.com**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=KrzysztofZawisla&show_icons=true" alt="Krzysztof Zawisła" /> </p>
-
 <p align="center">
 <a href="https://twitter.com/@krzysztof_zaw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@krzysztof_zaw" height="20" width="20" /></a>
 <a href="https://fb.com/100006723130084" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="100006723130084" height="20" width="20" /></a>
