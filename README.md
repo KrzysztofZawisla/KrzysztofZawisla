@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ZSB Rybnik website](https://github.com/KrzysztofZawisla/ZSBRybnik)
 
-- 📝 I (not) regulary write articles on [https://bulldogjob.pl/blog/authors/krzysztof-zawisla](https://bulldogjob.pl/blog/authors/krzysztof-zawisla)
+- 📝 I (don't) regulary write articles on [https://bulldogjob.pl/blog/authors/krzysztof-zawisla](https://bulldogjob.pl/blog/authors/krzysztof-zawisla)
 
 - 📫 How to reach me **zawislakrzysztof.zk@gmail.com**
 
