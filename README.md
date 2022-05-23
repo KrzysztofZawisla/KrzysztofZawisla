@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krzysztof Zawisła</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KrzysztofZawisla" alt="Krzysztof Zawisła" /> </p>
 
-- 🔭 I’m currently working on [ZSB Rybnik website](https://github.com/ZSBRybnik/ZSBRybnik)
+- 🔭 I’m currently working on [PyScript wrapper to React](https://github.com/Py4Js/PyScript-React)
 
 - 📝 I (don't) regulary write articles on [https://bulldogjob.pl/blog/authors/krzysztof-zawisla](https://bulldogjob.pl/blog/authors/krzysztof-zawisla)
 
