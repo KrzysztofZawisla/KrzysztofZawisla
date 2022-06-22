@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PyScript wrapper to React](https://github.com/Py4Js/PyScript-React)
 
-- 📝 I (don't) regulary write articles on [https://bulldogjob.pl/blog/authors/krzysztof-zawisla](https://bulldogjob.pl/blog/authors/krzysztof-zawisla)
+- 📝 I (don't) regulary write articles on [https://bulldogjob.pl/readme/authors/krzysztof-zawisla](https://bulldogjob.pl/readme/authors/krzysztof-zawisla)
 
 - 📫 How to reach me **zawislakrzysztof.zk@gmail.com**
 
