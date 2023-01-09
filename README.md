@@ -7,6 +7,48 @@
 
 - 📫 How to reach me **zawislakrzysztof.zk@gmail.com**
 
+Experienced with:
+ - Programming languages: TypeScript, JavaScript, Rust, Go, Python, AssemblyScript, PHP, Zig
+ - Databases: 
+   • Relational databases: PostgreSQL (with zombodb & pg_tgrm), MySQL, SQLite, MariaDB
+   • Non-Relational databases: Redis, FaunaDB, MongoDB, NeDB, Gun
+ - Query languages: SQL, GraphQL
+ - Runtimes and implementations: Bun, NodeJS, Deno, PyPy, TinyGo
+ - Descriptive languages: HTML5, SCSS, Less, CSS3, Markdown, MDX
+ - Version control systems, containerization, and related things: Docker, Podman, Git, GitHub, GitLab, GitHub Actions, GraalVM, NGINX
+ - Cloud computing:
+   • AWS: S3, Lambda, SAM, Aurora, DocumentDB, ElastiCache
+ - Message brokers: NATS
+ - JavaScript/TypeScript frameworks/libraries etc.:
+   • SPA/MPA frameworks/libraries: React, Preact, SolidJS, Astro, NextJS, JSX
+   • Testing tools/frameworks/libraries: Jest, Puppeteer, Spectron, tsd
+   • Multi-Platform development frameworks/libraries: Electron, React Native, Capacitor & Ionic
+   • CSS-in-JS: Styled-components, Emotion
+   • Stuff related to HTTP servers, web sockets, and backend stuff in general: Express, Socket.io, tRPC, serverless-express, middy
+   • ORMS, and ODMS: Schemix, Prisma, Mongoose
+   • Functional programming frameworks/libraries: Lodash
+   • Reacting programming frameworks/libraries: RxJS
+   • Bundlers, compilers, and common stuff: Webpack, Vite, Babel, SWC, TTypeScript
+   • State management frameworks/libraries: Formik, Zustand, Hookstate, Redux
+   • Code quality tools, formatters, documentation, git hooks, and so on.: ESLint, Husky, Prettier, JSDoc, TSDoc, Storybook
+   • Web3: Solana Web3, IPFS
+   • DevOps stuff: Pulumi
+   • Schemas, validators, and runtime type checkers: yup
+   • Working with dates: DateFNS
+   • FFI: FFI-napi
+   • Message brokers: NATS.js
+   • 3D stuff: ThreeJS
+   • Big numbers: bn.js
+   • Charts: ChartJS
+   • WebAssembly
+   • Internalization: i18next
+   • Animations: Framer-Motion, AnimeJS
+ - Python frameworks/libraries etc.: Selenium, Numba
+ - Golang frameworks/libraries etc.: Gin-gonic. WebAssembly
+ - Rust frameworks/libraries etc.: PyO3, Neon-bindings, Rocket.rs, Yew, Diesel, Tokio, wasm-pack, WebAssembly
+ - Quantum programming languages: Q#
+ and many others.
+
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![Rust Badge](https://img.shields.io/badge/-Rust-b94700?style=for-the-badge&labelColor=black&logo=rust&logoColor=b94700)](#)
