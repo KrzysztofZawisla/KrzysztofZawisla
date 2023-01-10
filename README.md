@@ -3,23 +3,24 @@
 
 - 🔭 I’m currently working on [PyScript wrapper to React](https://github.com/Py4Js/PyScript-React)
 
-- 📝 I (don't) regulary write articles on [https://bulldogjob.pl/readme/authors/krzysztof-zawisla](https://bulldogjob.pl/readme/authors/krzysztof-zawisla)
+- 📝 I (don't) regularly write articles on [https://bulldogjob.pl/readme/authors/krzysztof-zawisla](https://bulldogjob.pl/readme/authors/krzysztof-zawisla)
 
 - 📫 How to reach me **zawislakrzysztof.zk@gmail.com**
 
-Experienced with:  
- - Programming languages: TypeScript, JavaScript, Rust, Go, Python, AssemblyScript, PHP, Zig  
- - Databases:  
+Experienced with:
+
+- Programming languages: TypeScript, JavaScript, Rust, Go, Python, AssemblyScript, PHP, Zig
+- Databases:  
    • Relational databases: PostgreSQL (with zombodb & pg_tgrm), MySQL, SQLite, MariaDB  
-   • Non-Relational databases: Redis, FaunaDB, MongoDB, NeDB, Gun  
- - Query languages: SQL, GraphQL  
- - Runtimes and implementations: Bun, NodeJS, Deno, PyPy, TinyGo  
- - Descriptive languages: HTML5, SCSS, Less, CSS3, Markdown, MDX  
- - Version control systems, containerization, and related things: Docker, Podman, Git, GitHub, GitLab, GitHub Actions, GraalVM, NGINX  
- - Cloud computing:  
-   • AWS: S3, Lambda, SAM, Aurora, DocumentDB, ElastiCache  
- - Message brokers: NATS  
- - JavaScript/TypeScript frameworks/libraries etc.:  
+   • Non-Relational databases: Redis, FaunaDB, MongoDB, NeDB, Gun
+- Query languages: SQL, GraphQL
+- Runtimes and implementations: Bun, NodeJS, Deno, PyPy, TinyGo
+- Descriptive languages: HTML5, SCSS, Less, CSS3, Markdown, MDX
+- Version control systems, containerization, and related things: Docker, Podman, Git, GitHub, GitLab, GitHub Actions, GraalVM, NGINX
+- Cloud computing:  
+   • AWS: S3, Lambda, SAM, Aurora, DocumentDB, ElastiCache
+- Message brokers: NATS
+- JavaScript/TypeScript frameworks/libraries etc.:  
    • SPA/MPA frameworks/libraries: React, Preact, SolidJS, Astro, NextJS, JSX  
    • Testing tools/frameworks/libraries: Jest, Puppeteer, Spectron, tsd  
    • Multi-Platform development frameworks/libraries: Electron, React Native, Capacitor & Ionic  
@@ -42,12 +43,12 @@ Experienced with:
    • Charts: ChartJS  
    • WebAssembly  
    • Internalization: i18next  
-   • Animations: Framer-Motion, AnimeJS  
- - Python frameworks/libraries etc.: Selenium, Numba  
- - Golang frameworks/libraries etc.: Gin-gonic. WebAssembly  
- - Rust frameworks/libraries etc.: PyO3, Neon-bindings, Rocket.rs, Yew, Diesel, Tokio, wasm-pack, WebAssembly  
- - Quantum programming languages: Q#  
- and many others.
+   • Animations: Framer-Motion, AnimeJS
+- Python frameworks/libraries etc.: Selenium, Numba
+- Golang frameworks/libraries etc.: Gin-gonic. WebAssembly
+- Rust frameworks/libraries etc.: PyO3, Neon-bindings, Rocket.rs, Yew, Diesel, Tokio, wasm-pack, WebAssembly
+- Quantum programming languages: Q#  
+  and many others.
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
