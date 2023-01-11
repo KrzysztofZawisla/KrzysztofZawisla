@@ -58,7 +58,6 @@ Experienced with:
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![Yarn Badge](https://img.shields.io/badge/-Yarn-2c8ebb?style=for-the-badge&labelColor=black&logo=yarn&logoColor=2c8ebb)](#)
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=krzysztofzawisla&show_icons=true&locale=en" alt="krzysztofzawisla" /></p>
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=krzysztofzawisla&show_icons=true&locale=en&layout=compact" alt="krzysztofzawisla" /></p>
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krzysztofzawisla" alt="krzysztofzawisla" /></a></p>
 <p align="center"><a href="https://twitter.com/@krzysztof_zaw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@krzysztof_zaw" height="20" width="20" /></a><a href="https://fb.com/100006723130084" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="100006723130084" height="20" width="20" /></a><a href="https://instagram.com/krzysztof_zawisla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="krzysztof_zawisla" height="20" width="20" /></a></p>
