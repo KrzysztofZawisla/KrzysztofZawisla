@@ -16,7 +16,7 @@ Experienced with:
  - Descriptive languages: HTML5, SCSS, Less, CSS3, Markdown, MDX  
  - Version control systems, containerization, and related things: Docker, Podman, Git, GitHub, GitLab, GitHub Actions, GraalVM, NGINX  
  - Cloud computing:  
-  • AWS: S3, Lambda, SAM, IAM, Aurora, DocumentDB, ElastiCache, LoadBalancer, API Gateway, ECR, ECS  
+  • AWS: S3, Lambda, SAM, IAM, Aurora, DocumentDB, ElastiCache, LoadBalancer, API Gateway, ECR, ECS, Cloudfront, Route 53, SQS, EFS, SES, WAF & Shield, Cloudwatch  
  - Message brokers: NATS  
  - JavaScript/TypeScript frameworks/libraries etc.:  
   • SPA/MPA frameworks/libraries: React, Preact, SolidJS, Astro, NextJS, JSX  
