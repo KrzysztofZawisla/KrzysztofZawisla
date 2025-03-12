@@ -6,7 +6,8 @@
 
 My Leetcode: https://leetcode.com/KrzysztofZawisla/
 
-Experienced with:
+# Experienced with:
+
  - Programming languages: TypeScript, JavaScript, Rust, Go, Python, Mojo, AssemblyScript, PHP, Zig, Q#  
  - Databases:  
   • Relational databases: PostgreSQL (with zombodb & pg_tgrm), MySQL, SQLite, MariaDB  
