@@ -16,7 +16,9 @@ My MakerWorld: https://makerworld.com/en/@Snowdr0p
  - Query languages: SQL, GraphQL  
  - Runtimes and implementations: Bun, NodeJS, Deno, PyPy, TinyGo  
  - Descriptive languages: HTML5, SCSS, Less, CSS3, Markdown, MDX  
- - Version control systems, containerization, and related things: Docker, Podman, Git, GitHub, GitLab, GitHub Actions, GraalVM, NGINX  
+ - Version control systems, containerization, and related things: Docker, Podman, Git, GitHub, GitLab, GitHub Actions, GraalVM, NGINX
+ - AI Providers: Anthropic, Google, OpenAI, DeepSeek, Z.AI, Alibaba (Qwen)  
+ - AI Tooling: Claude Code, Ollama, ComfyUI, HuggingFace  
  - Cloud computing:  
   • AWS: S3, Lambda, SAM, IAM, Aurora, DocumentDB, ElastiCache, LoadBalancer, API Gateway, ECR, ECS, Cloudfront, Route 53, SQS, EFS, SES, WAF & Shield, Cloudwatch  
  - Message brokers: NATS  
@@ -62,7 +64,3 @@ and many others.
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Python Badge](https://img.shields.io/badge/-Python-2b5b84?style=for-the-badge&labelColor=black&logo=python&logoColor=2b5b84)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=krzysztofzawisla&show_icons=true&locale=en&layout=compact" alt="krzysztofzawisla" /></p>
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krzysztofzawisla" alt="krzysztofzawisla" /></a></p>
-<p align="center"><a href="https://twitter.com/@krzysztof_zaw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@krzysztof_zaw" height="20" width="20" /></a><a href="https://fb.com/100006723130084" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="100006723130084" height="20" width="20" /></a><a href="https://instagram.com/krzysztof_zawisla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="krzysztof_zawisla" height="20" width="20" /></a></p>
