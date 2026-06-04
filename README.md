@@ -50,7 +50,7 @@ My MakerWorld: https://makerworld.com/en/@Snowdr0p
  - Python frameworks/libraries etc.: FastAPI, Poetry, UV⁶ & UVX⁶, Hypercorn, Selenium, Numba, BLIP, LAVIS, LocalStack, Langchain, Langfuse, Langgraph, MCP, HTTPX, NatsPY, Folium  
  - Golang frameworks/libraries etc.: Gin-gonic, WebAssembly  
  - Rust frameworks/libraries etc.: PyO3, Neon-bindings, Rocket.rs, Axum, Tower, Serde, esp-idf, embassy, anyhow, heapless, Leptos, Yew, Diesel, Tokio, wasm-pack, WebAssembly  
-and many others.  
+ - and many others.  
 
 ¹ - I prefer to use Rust or TypeScript over Go, and I no longer use it on a daily basis.  
 ² - I work with Mojo in rare cases where GPU acceleration and timing are crucial and not using Python is not an option.  
