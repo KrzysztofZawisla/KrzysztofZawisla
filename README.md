@@ -50,11 +50,11 @@ My MakerWorld: https://makerworld.com/en/@Snowdr0p
  - Rust frameworks/libraries etc.: PyO3, Neon-bindings, Rocket.rs, Yew, Diesel, Tokio, wasm-pack, WebAssembly  
 and many others.  
 
-¹ - I prefer to use Rust or TypeScript over Go, and I no longer use it on a daily basis.
-² - I work with Mojo in rare cases where GPU acceleration and timing are crucial and not using Python is not an option.
-³ - Worked with these due to curiosity. Not very useful in my work, and projects. For the WebAssembly usage I prefer Rust with Leptos framework. In terms of quantum computing I don't need it, in my current projects, and work.
-⁴ - Legacy from the school times. I prefer to not come back to this.
-⁵ - The perfect language for microcontrollers, which have so little memory that even 0 abstraction logic from Rust won't fit. Since this isn't a common occurrence, I practically never use Zig, preferring Rust instead. I use Zig when I need "modern C," which is almost never.
+¹ - I prefer to use Rust or TypeScript over Go, and I no longer use it on a daily basis.  
+² - I work with Mojo in rare cases where GPU acceleration and timing are crucial and not using Python is not an option.  
+³ - Worked with these due to curiosity. Not very useful in my work, and projects. For the WebAssembly usage I prefer Rust with Leptos framework. In terms of quantum computing I don't need it, in my current projects, and work.  
+⁴ - Legacy from the school times. I prefer to not come back to this.  
+⁵ - The perfect language for microcontrollers, which have so little memory that even 0 abstraction logic from Rust won't fit. Since this isn't a common occurrence, I practically never use Zig, preferring Rust instead. I use Zig when I need "modern C," which is almost never.  
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
