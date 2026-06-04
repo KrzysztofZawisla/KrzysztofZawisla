@@ -32,11 +32,12 @@ My MakerWorld: https://makerworld.com/en/@Snowdr0p
   • Functional programming frameworks/libraries: Lodash  
   • Reactive programming frameworks/libraries: RxJS  
   • Bundlers, compilers, and common stuff: Webpack, Rollup, Vite, Babel, SWC, ESBuild, TTypeScript  
-  • State management frameworks/libraries: Formik, Zustand, Hookstate, Redux  
+  • State management frameworks/libraries: Formik, Zustand, Hookstate, Redux, react-hook-forms  
   • Code quality tools, formatters, documentation, git hooks, and so on.: ESLint, Husky, Prettier, JSDoc, TSDoc, Storybook  
   • Web3: Solana Web3, IPFS  
-  • DevOps stuff: Pulumi  
-  • Schemas, validators, and runtime type checkers: yup  
+  • DevOps stuff: Pulumi, Watchtower
+  • Schemas, validators, and runtime type checkers: yup, zod
+  • Child processes: ZX  
   • Working with dates: DateFNS  
   • FFI: FFI-napi, pythonia  
   • AI: langchain, openai  
