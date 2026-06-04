@@ -5,10 +5,11 @@
 - 📫 How to reach me **zawislakrzysztof.zk@gmail.com**/[via LinkedIn](https://linkedin.com/in/krzysztof-zawisła)
 
 My Leetcode: https://leetcode.com/KrzysztofZawisla/
+My MakerWorld: https://makerworld.com/en/@Snowdr0p
 
 # Experienced with:
 
- - Programming languages: TypeScript, JavaScript, Rust, Go, Python, Mojo, AssemblyScript, PHP, Zig, Q#  
+ - Programming languages: TypeScript, JavaScript, Rust, Go¹, Python, Mojo², AssemblyScript³, PHP⁴, Zig⁵, Q#³  
  - Databases:  
   • Relational databases: PostgreSQL (with zombodb & pg_tgrm), MySQL, SQLite, MariaDB  
   • Non-Relational databases: Redis, FaunaDB, MongoDB, NeDB, Gun, Chroma  
@@ -49,13 +50,18 @@ My Leetcode: https://leetcode.com/KrzysztofZawisla/
  - Rust frameworks/libraries etc.: PyO3, Neon-bindings, Rocket.rs, Yew, Diesel, Tokio, wasm-pack, WebAssembly  
 and many others.  
 
+¹ - I prefer to use Rust or TypeScript over Go, and I no longer use it on a daily basis.
+² - I work with Mojo in rare cases where GPU acceleration and timing are crucial and not using Python is not an option.
+³ - Worked with these due to curiosity. Not very useful in my work, and projects. For the WebAssembly usage I prefer Rust with Leptos framework. In terms of quantum computing I don't need it, in my current projects, and work.
+⁴ - Legacy from the school times. I prefer to not come back to this.
+⁵ - The perfect language for microcontrollers, which have so little memory that even 0 abstraction logic from Rust won't fit. Since this isn't a common occurrence, I practically never use Zig, preferring Rust instead. I use Zig when I need "modern C," which is almost never.
+
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![Rust Badge](https://img.shields.io/badge/-Rust-b94700?style=for-the-badge&labelColor=black&logo=rust&logoColor=b94700)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Python Badge](https://img.shields.io/badge/-Python-2b5b84?style=for-the-badge&labelColor=black&logo=python&logoColor=2b5b84)](#)
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![Yarn Badge](https://img.shields.io/badge/-Yarn-2c8ebb?style=for-the-badge&labelColor=black&logo=yarn&logoColor=2c8ebb)](#)
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=krzysztofzawisla&show_icons=true&locale=en&layout=compact" alt="krzysztofzawisla" /></p>
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krzysztofzawisla" alt="krzysztofzawisla" /></a></p>
