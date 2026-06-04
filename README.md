@@ -4,7 +4,7 @@
 - 📝 I (don't) regularly write articles on [https://bulldogjob.pl/readme/authors/krzysztof-zawisla](https://bulldogjob.pl/readme/authors/krzysztof-zawisla)
 - 📫 How to reach me **zawislakrzysztof.zk@gmail.com**/[via LinkedIn](https://linkedin.com/in/krzysztof-zawisła)
 
-My Leetcode: https://leetcode.com/KrzysztofZawisla/
+My Leetcode: https://leetcode.com/KrzysztofZawisla/  
 My MakerWorld: https://makerworld.com/en/@Snowdr0p
 
 # Experienced with:
