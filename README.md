@@ -9,7 +9,8 @@ My MakerWorld: https://makerworld.com/en/@Snowdr0p
 
 # Experienced with:
 
- - Programming languages: TypeScript, JavaScript, Rust, Go¹, Python, Mojo², AssemblyScript³, PHP⁴, Zig⁵, Q#³  
+ - Programming languages: TypeScript, JavaScript, Rust, Go¹, Python, Mojo², AssemblyScript³, PHP⁴, Zig⁵, Q#³
+ - CADs: Fusion 360  
  - Databases:  
   • Relational databases: PostgreSQL (with zombodb & pg_tgrm), MySQL, SQLite, MariaDB  
   • Non-Relational databases: Redis, FaunaDB, MongoDB, NeDB, Gun, Chroma  
