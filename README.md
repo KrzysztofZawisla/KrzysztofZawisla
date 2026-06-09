@@ -32,7 +32,7 @@ My MakerWorld: https://makerworld.com/en/@Snowdr0p
   • ORMS, and ODMS: Schemix, Prisma, Mongoose  
   • Functional programming frameworks/libraries: Lodash  
   • Reactive programming frameworks/libraries: RxJS  
-  • Bundlers, compilers, and common stuff: Webpack, Rollup, Vite, Babel, SWC, ESBuild, TTypeScript  
+  • Bundlers, compilers, and common stuff: Webpack, RSPack, Rollup, Vite, Babel, SWC, ESBuild, TTypeScript  
   • State management frameworks/libraries: Formik, Zustand, Hookstate, Redux, react-hook-forms  
   • Code quality tools, formatters, documentation, git hooks, and so on.: ESLint, Husky, Prettier, JSDoc, TSDoc, Storybook  
   • Web3: Solana Web3, IPFS  
