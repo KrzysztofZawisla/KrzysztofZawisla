@@ -13,7 +13,7 @@ My MakerWorld: https://makerworld.com/en/@Snowdr0p
  - CADs: Fusion 360  
  - Databases:  
   • Relational databases: PostgreSQL (with zombodb & pg_tgrm), MySQL, SQLite, MariaDB  
-  • Non-Relational databases: Redis, FaunaDB, MongoDB, NeDB, Gun, Chroma  
+  • Non-Relational databases: Redis, FaunaDB, MongoDB, NeDB, Gun, Chroma, Pinecone  
  - Query languages: SQL, GraphQL  
  - Runtimes and implementations: Bun, NodeJS, Deno, PyPy, TinyGo  
  - Descriptive languages: HTML5, SCSS, Less, CSS3, Markdown, MDX  
