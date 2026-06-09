@@ -25,7 +25,7 @@ My MakerWorld: https://makerworld.com/en/@Snowdr0p
  - Message brokers: NATS  
  - JavaScript/TypeScript frameworks/libraries etc.:  
   • SPA/MPA frameworks/libraries: React, Preact, SolidJS, Astro, NextJS, JSX  
-  • Testing tools/frameworks/libraries: Jest, Puppeteer, Spectron, tsd  
+  • Testing tools/frameworks/libraries: Jest, Vitest, Puppeteer, Spectron, tsd  
   • Multi-Platform development frameworks/libraries: Electron, React Native, Capacitor & Ionic  
   • CSS-in-JS: Styled-components, Emotion  
   • Stuff related to HTTP servers, web sockets, and backend stuff in general: Express, Socket.io, tRPC, serverless-express, middy  
