@@ -49,7 +49,7 @@ My MakerWorld: https://makerworld.com/en/@Snowdr0p
   • WebAssembly, PyScript  
   • Internalization: i18next  
   • Animations: Framer-Motion, AnimeJS  
- - Python frameworks/libraries etc.: FastAPI, Poetry, UV⁶ & UVX⁶, Hypercorn, Selenium, Numba, BLIP, LAVIS, LocalStack, Langchain, Langfuse, Langgraph, MCP, HTTPX, NatsPY, Folium  
+ - Python frameworks/libraries etc.: FastAPI, Poetry, UV⁶ & UVX⁶, Hypercorn, Selenium, Numba, BLIP, LAVIS, LocalStack, Langchain, Langfuse, Langgraph, MCP, HTTPX, NatsPY, Folium, Cohere re-raking 
  - Golang frameworks/libraries etc.: Gin-gonic, WebAssembly  
  - Rust frameworks/libraries etc.: PyO3, Neon-bindings, Rocket.rs, Axum, Tower, Serde, esp-idf, embassy, anyhow, heapless, Leptos, Yew, Diesel, Tokio, wasm-pack, WebAssembly  
  - and many others.  
