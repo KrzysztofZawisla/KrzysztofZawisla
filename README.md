@@ -5,7 +5,7 @@
 - 📫 How to reach me **zawislakrzysztof.zk@gmail.com**/[via LinkedIn](https://linkedin.com/in/krzysztof-zawisła)
 
 My Leetcode: https://leetcode.com/KrzysztofZawisla/  
-My MakerWorld: https://makerworld.com/en/@Snowdr0p
+My MakerWorld: https://makerworld.com/en/@KrzysztofZaw
 
 # Experienced with:
 
