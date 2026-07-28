@@ -51,7 +51,8 @@ My MakerWorld: https://makerworld.com/en/@KrzysztofZaw
   • Animations: Framer-Motion, AnimeJS  
  - Python frameworks/libraries etc.: FastAPI, Poetry, UV⁶ & UVX⁶, Hypercorn, Selenium, Numba, BLIP, LAVIS, LocalStack, Langchain, Langfuse, Langgraph, MCP, HTTPX, NatsPY, Folium, Cohere re-raking 
  - Golang frameworks/libraries etc.: Gin-gonic, WebAssembly  
- - Rust frameworks/libraries etc.: PyO3, Neon-bindings, Rocket.rs, Axum, Tower, Serde, esp-idf, embassy, anyhow, heapless, Leptos, Yew, Diesel, Tokio, wasm-pack, WebAssembly  
+ - Rust frameworks/libraries etc.: PyO3, Neon-bindings, Rocket.rs, Axum, Tower, Serde, esp-idf, embassy, anyhow, heapless, Leptos, Yew, Diesel, Tokio, wasm-pack, WebAssembly
+ - Mag welding
  - and many others.  
 
 ¹ - I prefer to use Rust or TypeScript over Go, and I no longer use it on a daily basis.  
