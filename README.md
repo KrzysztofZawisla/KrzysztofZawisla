@@ -19,7 +19,8 @@ My MakerWorld: https://makerworld.com/en/@KrzysztofZaw
  - Descriptive languages: HTML5, SCSS, Less, CSS3, Markdown, MDX  
  - Version control systems, containerization, and related things: Docker, Podman, Git, GitHub, GitLab, GitHub Actions, GraalVM, NGINX
  - AI Providers: Anthropic, Google, OpenAI, DeepSeek, Z.AI, Alibaba (Qwen)  
- - AI Tooling: Claude Code, Ollama, ComfyUI, HuggingFace  
+ - AI Tooling: Claude Code, Ollama, ComfyUI, HuggingFace, llama.cpp, Qwen Code, Command Code, OpenCode  
+ - Agentic AI & Decision-Making models: MCP, Clef, Jev  
  - Cloud computing:  
   • AWS: S3, Lambda, SAM, IAM, Aurora, DocumentDB, ElastiCache, LoadBalancer, API Gateway, ECR, ECS, Cloudfront, Route 53, SQS, EFS, SES, WAF & Shield, Cloudwatch  
  - Message brokers: NATS  
