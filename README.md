@@ -20,7 +20,7 @@ My Leetcode profile: https://leetcode.com/KrzysztofZawisla/
  - Descriptive languages: HTML5, SCSS, Less, CSS3, Markdown, MDX  
  - Version control systems, containerization, and related things: Docker, Podman, Git, GitHub, GitLab, GitHub Actions, GraalVM, NGINX
  - AI Providers: Anthropic, Google, OpenAI, DeepSeek, Z.AI, Alibaba (Qwen)  
- - AI Tooling: Claude Code, Ollama, ComfyUI, HuggingFace, llama.cpp, Qwen Code, Command Code, OpenCode  
+ - AI Tooling: Claude Code, Ollama, ComfyUI, HuggingFace, llama.cpp, Qwen Code, Command Code, OpenCode, Deepseek Harness, RRSI, looped transformers, AdamW  
  - Agentic AI & Decision-Making models: MCP, Clef, Jev  
  - Cloud computing:  
   • AWS: S3, Lambda, SAM, IAM, Aurora, DocumentDB, ElastiCache, LoadBalancer, API Gateway, ECR, ECS, Cloudfront, Route 53, SQS, EFS, SES, WAF & Shield, Cloudwatch  
@@ -51,7 +51,7 @@ My Leetcode profile: https://leetcode.com/KrzysztofZawisla/
   • WebAssembly, PyScript  
   • Internalization: i18next  
   • Animations: Framer-Motion, AnimeJS  
- - Python frameworks/libraries etc.: FastAPI, Poetry, UV⁶ & UVX⁶, Hypercorn, Selenium, Numba, BLIP, LAVIS, LocalStack, Langchain, Langfuse, Langgraph, MCP, HTTPX, NatsPY, Folium, Cohere re-raking 
+ - Python frameworks/libraries etc.: FastAPI, PyTorch, transformers, NumPy, Poetry, UV⁶ & UVX⁶, Hypercorn, Selenium, Numba, BLIP, LAVIS, LocalStack, Langchain, Langfuse, Langgraph, MCP, HTTPX, NatsPY, Folium, Cohere re-raking 
  - Golang frameworks/libraries etc.: Gin-gonic, WebAssembly  
  - Rust frameworks/libraries etc.: PyO3, Neon-bindings, Rocket.rs, Axum, Tower, Serde, esp-idf, embassy, anyhow, heapless, Leptos, Yew, Diesel, Tokio, wasm-pack, WebAssembly
  - Mag welding
